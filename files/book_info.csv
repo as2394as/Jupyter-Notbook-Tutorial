@@ -1,0 +1,1921 @@
+book_id,genre,title,author,purchase_price,purchase_date
+234, Fantasy,The Hunger Games,Suzanne Collins,5.09,13/10/2022
+235, Magic,Harry Potter and the Order of the Phoenix,J.K. Rowling,7.38,13/10/2022
+236, Vampires,Twilight,Stephenie Meyer,2.1,13/10/2022
+237, Historical,The Book Thief,Markus Zusak (Goodreads Author),3.8,13/10/2022
+238, Fantasy,Animal Farm,George Orwell,4.42,13/10/2022
+239, Adventure,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,21.15,13/10/2022
+240, Romance,Gone with the Wind,Margaret Mitchell,5.58,13/10/2022
+241, Fiction,The Giving Tree,Shel Silverstein,4.87,13/10/2022
+242, Gothic,Wuthering Heights,Emily Brontë,2.73,13/10/2022
+243, Historical,Memoirs of a Geisha,Arthur Golden,2.76,13/10/2022
+244, Childrens,Alices Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,3.07,13/10/2022
+245, Historical Fiction,Jane Eyre,Charlotte Brontë,5.46,13/10/2022
+246, Fantasy,Divergent,Veronica Roth (Goodreads Author),0.88,13/10/2022
+247, School,Lord of the Flies,William Golding,1.89,13/10/2022
+248, Romance,Romeo and Juliet,William Shakespeare,6.79,13/10/2022
+249, Philosophy,The Alchemist,Paulo Coelho (Goodreads Author),13.22,13/10/2022
+250, Literature,Crime and Punishment,Fyodor Dostoyevsky,18.85,13/10/2022
+251, Romance,City of Bones,Cassandra Clare (Goodreads Author),6.29,13/10/2022
+252, Fantasy,Enders Game,Orson Scott Card,4.6,13/10/2022
+253, Childrens,Anne of Green Gables,L.M. Montgomery,6.07,13/10/2022
+254, Young Adult,Charlottes Web,E.B. White,6.15,13/10/2022
+255, Historical Fiction,Of Mice and Men,John Steinbeck,5.75,13/10/2022
+256, Fantasy,Dracula,Bram Stoker,4.55,13/10/2022
+257, Dystopia,Brave New World,Aldous Huxley,3.78,13/10/2022
+258, Literature,The Catcher in the Rye,J.D. Salinger,2.6,13/10/2022
+259, Romance,The Princess Bride,William Goldman,6.23,13/10/2022
+260, Fiction,The Lightning Thief,Rick Riordan (Goodreads Author),1.79,13/10/2022
+261, Young Adult,The Secret Garden,Frances Hodgson Burnett,3.33,13/10/2022
+262, Novels,A Thousand Splendid Suns,Khaled Hosseini (Goodreads Author),1.16,13/10/2022
+263, Young Adult,A Wrinkle in Time,Madeleine LEngle,4.8,13/10/2022
+264, Adult,A Game of Thrones,George R.R. Martin,4.01,13/10/2022
+265, Literature,The Adventures of Huckleberry Finn,Mark Twain,6.99,13/10/2022
+266, Contemporary,The Lovely Bones,Alice Sebold,1.91,13/10/2022
+267, Classics,Where the Wild Things Are,Maurice Sendak,3.67,13/10/2022
+268, Fiction,Green Eggs and Ham,Dr. Seuss,2.98,13/10/2022
+269, Mythology,The Odyssey,Homer,3.65,13/10/2022
+270, Adventure,Life of Pi,Yann Martel,2.86,13/10/2022
+271, Literature,A Tale of Two Cities,Charles Dickens,1.12,13/10/2022
+272, Historical,Water for Elephants,Sara Gruen (Goodreads Author),3.46,13/10/2022
+273, War,Slaughterhouse-Five,Kurt Vonnegut Jr.,8.5,13/10/2022
+274, Science Fiction,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,8.75,13/10/2022
+275, Dystopia,The Giver,Lois Lowry (Goodreads Author),7.15,13/10/2022
+276, Historical Fiction,Catch-22,Joseph Heller,3.32,13/10/2022
+277, Classics,Dune,Frank Herbert,29.34,13/10/2022
+278, Science Fiction,The Stand,Stephen King (Goodreads Author),8.38,13/10/2022
+279, Young Adult,Watership Down,Richard Adams,5.25,13/10/2022
+280, Historical Fiction,Great Expectations,Charles Dickens,0.85,13/10/2022
+281, Young Adult,Little Women,Louisa May Alcott,5.51,13/10/2022
+282, Magic,Harry Potter and the Deathly Hallows,J.K. Rowling,2.85,13/10/2022
+283, Fiction,Outlander,Diana Gabaldon (Goodreads Author),5.98,13/10/2022
+284, Young Adult,My Sisters Keeper,Jodi Picoult (Goodreads Author),2.76,13/10/2022
+285, Fantasy,Matilda,Roald Dahl,6.01,13/10/2022
+286, Feminism,The Color Purple,Alice Walker,13.75,13/10/2022
+287, Young Adult,A Tree Grows in Brooklyn,Betty Smith,5.01,13/10/2022
+288, Dystopia,A Clockwork Orange,Anthony Burgess,13.05,13/10/2022
+289, Post Apocalyptic,The Road,Cormac McCarthy,6.83,13/10/2022
+290, Literature,The Brothers Karamazov,Fyodor Dostoyevsky,5.51,13/10/2022
+291, Classics,Angelas Ashes,Frank McCourt,2.76,13/10/2022
+292, Paranormal,Vampire Academy,Richelle Mead (Goodreads Author),3.33,13/10/2022
+293, Classics,The Poisonwood Bible,Barbara Kingsolver,4.12,13/10/2022
+294, Childrens,The Golden Compass,Philip Pullman,1.61,13/10/2022
+295, Spanish Literature,Don Quixote,Miguel de Cervantes Saavedra,9.04,13/10/2022
+296, Politics,Atlas Shrugged,Ayn Rand,4.41,13/10/2022
+297, Magic,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,5.94,13/10/2022
+298, Novels,The Old Man and the Sea,Ernest Hemingway,15.63,13/10/2022
+299, Fantasy,Winnie-the-Pooh,A.A. Milne,5.3,13/10/2022
+300, Fiction,The Complete Stories and Poems,Edgar Allan Poe,5.27,13/10/2022
+301, Vampires,Interview with the Vampire,Anne Rice,2.66,13/10/2022
+302, Literature,A Prayer for Owen Meany,John Irving (Goodreads Author),2.86,13/10/2022
+303, Adventure,Moby-Dick or,Herman Melville,1.87,13/10/2022
+304, Religion,The Red Tent,Anita Diamant (Goodreads Author),5.26,13/10/2022
+305, Classics,The Secret Life of Bees,Sue Monk Kidd (Goodreads Author),3.5,13/10/2022
+306, Romance,Clockwork Angel,Cassandra Clare (Goodreads Author),4.62,13/10/2022
+307, Crime,And Then There Were None,Agatha Christie,4.82,13/10/2022
+308, LGBT,Middlesex,Jeffrey Eugenides,3.11,13/10/2022
+309, Fantasy,The Master and Margarita,Mikhail Bulgakov,13.56,13/10/2022
+310, High Fantasy,The Name of the Wind,Patrick Rothfuss (Goodreads Author),9.36,13/10/2022
+311, Classics,The Shining,Stephen King (Goodreads Author),7.59,13/10/2022
+312, Young Adult,The Adventures of Tom Sawyer,Mark Twain,3.36,13/10/2022
+313, Dragons,Eragon,Christopher Paolini (Goodreads Author),2.86,13/10/2022
+314, Classics,Charlie and the Chocolate Factory,Roald Dahl,1.13,13/10/2022
+315, Literature,On the Road,Jack Kerouac,1.91,13/10/2022
+316, Contemporary,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2.94,13/10/2022
+317, Classics,The Very Hungry Caterpillar,Eric Carle,2.42,13/10/2022
+318, Inspirational,Tuesdays with Morrie,Mitch Albom (Goodreads Author),3.27,13/10/2022
+319, Literature,The Unbearable Lightness of Being,Milan Kundera,11.62,13/10/2022
+320, Classics,The Name of the Rose,Umberto Eco,4.07,13/10/2022
+321, Childrens,Where the Red Fern Grows,Wilson Rawls,5.4,13/10/2022
+322, Magic,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.17,13/10/2022
+323, School,The Scarlet Letter,Nathaniel Hawthorne,1.91,13/10/2022
+324, Crime,In Cold Blood,Truman Capote,6.58,13/10/2022
+325, Thriller,Fight Club,Chuck Palahniuk (Goodreads Author),10.16,13/10/2022
+326, Fantasy,The Five People You Meet in Heaven,Mitch Albom (Goodreads Author),3.57,13/10/2022
+327, Paranormal,Hush,Becca Fitzpatrick (Goodreads Author),2.55,13/10/2022
+328, Fiction,The Cat in the Hat,Dr. Seuss,0.85,13/10/2022
+329, Adventure,The Count of Monte Cristo,Alexandre Dumas,6.13,13/10/2022
+330, Classics,Lonesome Dove,Larry McMurtry,4.55,13/10/2022
+331, Horror,Perfume: The Story of a Murderer,Patrick Süskind,2.6,13/10/2022
+332, Middle Grade,Holes,Louis Sachar (Goodreads Author),3.1,13/10/2022
+333, Science Fiction,Watchmen,Alan Moore (Goodreads Author),4.85,13/10/2022
+334, Fantasy,It,Stephen King (Goodreads Author),5.71,13/10/2022
+335, Fiction,The Last Olympian,Rick Riordan (Goodreads Author),7.44,22/01/2023
+336, Literature,The Divine Comedy,Dante Alighieri,13.66,22/01/2023
+337, Childrens,Peter Pan,J.M. Barrie,5.26,22/01/2023
+338, War,All Quiet on the Western Front,Erich Maria Remarque,2.32,22/01/2023
+339, Adventure,The Hobbit,J.R.R. Tolkien,4.68,22/01/2023
+340, Fiction,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company,3.17,22/01/2023
+341, Romance,Love in the Time of Cholera,Gabriel García Márquez,3.36,22/01/2023
+342, Paranormal,Shadow Kiss,Richelle Mead (Goodreads Author),2.76,22/01/2023
+343, Fantasy,The Ultimate Hitchhikers Guide to the Galaxy,Douglas Adams,2.76,22/01/2023
+344, Classics,Atonement,Ian McEwan,2.86,22/01/2023
+345, Drama,The Importance of Being Earnest,Oscar Wilde,5.26,22/01/2023
+346, Biography,Eat Pray Love,Elizabeth Gilbert (Goodreads Author),5.56,22/01/2023
+347, School,Their Eyes Were Watching God,Zora Neale Hurston,14.2,22/01/2023
+348, Childrens,The Wonderful Wizard of Oz,L. Frank Baum,1.45,22/01/2023
+349, Fiction,Goodnight Moon,Margaret Wise Brown,5.69,22/01/2023
+350, Classics,The Lorax,Dr. Seuss,41.26,22/01/2023
+351, Paranormal,Blood Promise,Richelle Mead (Goodreads Author),3.73,22/01/2023
+352, China,The Good Earth,Pearl S. Buck,5.27,22/01/2023
+353, Africa,Heart of Darkness,Joseph Conrad,7.19,22/01/2023
+354, Drama,A Midsummer Nights Dream,William Shakespeare,3,22/01/2023
+355, Paranormal,Clockwork Princess,Cassandra Clare (Goodreads Author),4,22/01/2023
+356, Fiction,The Prophet,Kahlil Gibran,5.8,22/01/2023
+357, Fiction,The Titans Curse,Rick Riordan (Goodreads Author),3.43,22/01/2023
+358, Fiction,The Sea of Monsters,Rick Riordan (Goodreads Author),1.91,22/01/2023
+359, China,The Joy Luck Club,Amy Tan (Goodreads Author),4.74,22/01/2023
+360, Childrens,Alice in Wonderland,Jane Carruth (Adapted By),5.26,22/01/2023
+361, Young Adult,The Call of the Wild,Jack London,5.38,22/01/2023
+362, Fantasy,Jonathan Livingston Seagull,Richard Bach (Goodreads Author),4.55,22/01/2023
+363, Literature,Madame Bovary,Gustave Flaubert,1.45,22/01/2023
+364, Classics,The Phantom Tollbooth,Norton Juster,5.79,22/01/2023
+365, Dystopia,The Hunger Games Trilogy Boxset,Suzanne Collins,4.09,22/01/2023
+366, Classics,Oh the Places Youll Go!,Dr. Seuss,5.01,22/01/2023
+367, Crime,The Girl Who Played with Fire,Stieg Larsson,3.25,22/01/2023
+368, Fiction,The Maze Runner,James Dashner (Goodreads Author),3.17,22/01/2023
+369, Young Adult,The Neverending Story,Michael Ende,7.54,22/01/2023
+370, Young Adult,Treasure Island,Robert Louis Stevenson,5.6,22/01/2023
+371, Science Fiction Fantasy,A Storm of Swords,George R.R. Martin,3.57,22/01/2023
+372, Literature,The Canterbury Tales,Geoffrey Chaucer,3.9,22/01/2023
+373, War,A Farewell to Arms,Ernest Hemingway,0.91,22/01/2023
+374, Realistic Fiction,Tote Mädchen lügen nicht,Jay Asher (Goodreads Author),3.86,22/01/2023
+375, Science Fiction Fantasy,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,2.76,22/01/2023
+376, Historical,Shōgun,James Clavell,7.04,22/01/2023
+377, Novels,Extremely Loud & Incredibly Close,Jonathan Safran Foer (Goodreads Author),2.41,22/01/2023
+378, Crime,Murder on the Orient Express,Agatha Christie,2.56,22/01/2023
+379, Childrens,His Dark Materials,Philip Pullman,3.57,22/01/2023
+380, Young Adult,A Little Princess,Frances Hodgson Burnett,2.87,22/01/2023
+381, Holocaust,Schindlers List,Thomas Keneally,0.85,22/01/2023
+382, Paranormal,Last Sacrifice,Richelle Mead (Goodreads Author),3.8,22/01/2023
+383, Historical Fiction,The Night Circus,Erin Morgenstern (Goodreads Author),7.02,22/01/2023
+384, Paranormal,Fallen,Lauren Kate (Goodreads Author),4.64,22/01/2023
+385, High Fantasy,The Silmarillion,J.R.R. Tolkien,17.07,22/01/2023
+386, Historical,The Secret Magdalene,Ki Longfellow (Goodreads Author),5.6,22/01/2023
+387, Magical Realism,Beloved,Toni Morrison,3.8,22/01/2023
+388, Literature,A Confederacy of Dunces,John Kennedy Toole,5.91,22/01/2023
+389, Fantasy,The Selection,Kiera Cass (Goodreads Author),5.01,22/01/2023
+390, Picture Books,The Velveteen Rabbit,Margery Williams Bianco,5.9,22/01/2023
+391, Fantasy,Catching Fire,Suzanne Collins,3.66,22/01/2023
+392, Fiction,The Lost Hero,Rick Riordan (Goodreads Author),10.25,22/01/2023
+393, Paranormal,Spirit Bound,Richelle Mead (Goodreads Author),4.59,22/01/2023
+394, Paranormal,Clockwork Prince,Cassandra Clare (Goodreads Author),5.69,22/01/2023
+395, Mythology,The Iliad/The Odyssey,Homer,6.15,22/01/2023
+396, Historical Fiction,The Crucible,Arthur Miller,3.98,22/01/2023
+397, Humor,Cats Cradle,Kurt Vonnegut Jr.,5.69,22/01/2023
+398, Contemporary,The God of Small Things,Arundhati Roy (Goodreads Author),3.17,22/01/2023
+399, Fantasy,The Wind in the Willows,Kenneth Grahame,4.18,22/01/2023
+400, Classics,Girl with a Pearl Earring,Tracy Chevalier (Goodreads Author),2.86,22/01/2023
+401, Christian,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.17,22/01/2023
+402, Fiction,A Light in the Attic,Shel Silverstein,12.08,22/01/2023
+403, Mystery,The Silence of the Lambs,Thomas Harris,3.11,22/01/2023
+404, Paranormal,Shiver,Maggie Stiefvater (Goodreads Author),7.05,22/01/2023
+405, Fiction,Uglies,Scott Westerfeld (Goodreads Author),3.58,22/01/2023
+406, Romance,City of Fallen Angels,Cassandra Clare (Goodreads Author),4.75,22/01/2023
+407, History,Mans Search for Meaning,Viktor E. Frankl,7.37,22/01/2023
+408, Adult Fiction,Shes Come Undone,Wally Lamb (Goodreads Author),1.91,22/01/2023
+409, Romance,The Phantom of the Opera,Gaston Leroux,2.86,22/01/2023
+410, Dogs,Marley and Me: Life and Love With the Worlds Worst Dog,John Grogan,5.29,22/01/2023
+411, Romance,Ella Enchanted,Gail Carson Levine (Goodreads Author),1.91,22/01/2023
+412, Japanese Literature,The Wind-Up Bird Chronicle,Haruki Murakami,22.25,22/01/2023
+413, Thriller,The Green Mile,Stephen King (Goodreads Author),17.56,22/01/2023
+414, Science Fiction Fantasy,A Clash of Kings,George R.R. Martin,1.91,22/01/2023
+415, Paranormal,Marked,P.C. Cast (Goodreads Author),1.79,22/01/2023
+416, Romance,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,3.65,22/01/2023
+417, Journalism,Fear and Loathing in Las Vegas,Hunter S. Thompson,5.69,22/01/2023
+418, Classics,The House of the Spirits,Isabel Allende (Goodreads Author),3.32,22/01/2023
+419, Fiction,The Complete Calvin and Hobbes,Bill Watterson,110.67,22/01/2023
+420, Historical,Roots: The Saga of an American Family,Alex Haley,3.1,22/01/2023
+421, Suspense,Misery,Stephen King (Goodreads Author),1.12,22/01/2023
+422, Romance,Howls Moving Castle,Diana Wynne Jones,5.95,22/01/2023
+423, Science Fiction Fantasy,Stranger in a Strange Land,Robert A. Heinlein,6.4,22/01/2023
+424, Crime,The Girl Who Kicked the Hornets Nest,Stieg Larsson,1.64,22/01/2023
+425, Literary Fiction,The Secret History,Donna Tartt,9.11,22/01/2023
+426, Adult Fiction,White Oleander,Janet Fitch (Goodreads Author),4.89,22/01/2023
+427, Science Fiction,Delirium,Lauren Oliver (Goodreads Author),2.86,22/01/2023
+428, Drama,Othello,William Shakespeare,6.76,22/01/2023
+429, Historical,Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow (Goodreads Author),8.08,22/01/2023
+430, Romance,Paper Towns,John Green (Goodreads Author),1.61,22/01/2023
+431, Fiction,The Vampire Lestat,Anne Rice,5.68,22/01/2023
+432, Realistic Fiction,Speak,Laurie Halse Anderson (Goodreads Author),5.07,22/01/2023
+433, Russian Literature,The Idiot,Fyodor Dostoyevsky,5.46,22/01/2023
+434, Fiction,King Lear,William Shakespeare,3.78,22/01/2023
+435, Historical Fiction,The Once and Future King,T.H. White,2.66,22/01/2023
+436, Literary Fiction,I Know This Much Is True,Wally Lamb (Goodreads Author),2.94,22/01/2023
+437, Science Fiction Fantasy,Neverwhere,Neil Gaiman (Goodreads Author),4.66,22/01/2023
+438, Adventure,Into the Wild,Jon Krakauer (Goodreads Author),3.75,22/01/2023
+439, Childrens,Inkheart,Cornelia Funke (Goodreads Author),3.52,22/01/2023
+440, Fantasy,Lamb: The Gospel According to Biff,Christopher Moore (Goodreads Author),3.56,22/01/2023
+441, Crime,The Complete Sherlock Holmes,Arthur Conan Doyle,11.24,22/01/2023
+442, France,Candide,Voltaire,1.45,22/01/2023
+443, Classics,James and the Giant Peach,Roald Dahl,5.4,22/01/2023
+444, History,Blood River: A Journey to Africas Broken Heart,Tim Butcher (Goodreads Author),2.76,22/01/2023
+445, Literature,Paradise Lost,John Milton,1.91,22/01/2023
+446, Classics,All Creatures Great and Small,James Herriot,2.63,22/01/2023
+447, Plays,The Complete Works,William Shakespeare,4.44,22/01/2023
+448, Gothic,The Thirteenth Tale,Diane Setterfield (Goodreads Author),1.76,22/01/2023
+449, Science Fiction Fantasy,Foundation,Isaac Asimov,15.29,22/01/2023
+450, Japanese Literature,Norwegian Wood,Haruki Murakami,13,22/01/2023
+451, Classics,The Things They Carried,Tim OBrien,3.32,22/01/2023
+452, Literature,The Cider House Rules,John Irving (Goodreads Author),5.14,22/01/2023
+453, Thriller,Different Seasons,Stephen King (Goodreads Author),3.11,22/01/2023
+454, Fantasy,Kafka on the Shore,Haruki Murakami,8.22,22/01/2023
+455, Young Adult,Heidi,Johanna Spyri,2.49,22/01/2023
+456, Classics,Are You There God? Its Me,Judy Blume (Goodreads Author),11.9,22/01/2023
+457, Romance,City of Lost Souls,Cassandra Clare (Goodreads Author),5.26,22/01/2023
+458, Young Adult,Sophies World,Jostein Gaarder,3.43,22/01/2023
+459, High Fantasy,The Wise Mans Fear,Patrick Rothfuss (Goodreads Author),16.37,22/01/2023
+460, School,The Awakening,Kate Chopin,10.36,22/01/2023
+461, Holocaust,Sophies Choice,William Styron,4.08,22/01/2023
+462, Romance,The Prince of Tides,Pat Conroy,7.15,22/01/2023
+463, Contemporary,Never Let Me Go,Kazuo Ishiguro,6.46,22/01/2023
+464, Fiction,The Son of Neptune,Rick Riordan (Goodreads Author),6.42,22/01/2023
+465, Urban Fantasy,Dead Until Dark,Charlaine Harris (Goodreads Author),3.16,22/01/2023
+466, Classics,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,16.54,22/01/2023
+467, BDSM,Fifty Shades Darker,E.L. James (Goodreads Author),6.33,22/01/2023
+468, Fantasy,Ready Player One,Ernest Cline (Goodreads Author),16.53,22/01/2023
+469, Literature,Middlemarch,George Eliot,5.49,22/01/2023
+470, Humor,The Monster at the End of this Book,Jon Stone,5.46,22/01/2023
+471, Humor,Bridget Joness Diary,Helen Fielding (Goodreads Author),4.48,22/01/2023
+472, Novels,Mrs. Dalloway,Virginia Woolf,1.33,22/01/2023
+473, Fantasy,Mockingjay,Suzanne Collins,3.43,22/01/2023
+474, Literature,Franny and Zooey,J.D. Salinger,4.19,22/01/2023
+475, Classics,The Power of One,Bryce Courtenay,4,22/01/2023
+476, Young Adult,The Magicians Nephew,C.S. Lewis,2.86,22/01/2023
+477, Young Adult,Stardust,Neil Gaiman (Goodreads Author),6.7,22/01/2023
+478, Classics,Number the Stars,Lois Lowry (Goodreads Author),8.29,22/01/2023
+479, Science Fiction,Allegiant,Veronica Roth (Goodreads Author),2.76,22/01/2023
+480, Fiction,Eleanor & Park,Rainbow Rowell (Goodreads Author),1.06,22/01/2023
+481, Audiobook,A Short History of Nearly Everything,Bill Bryson,2.17,22/01/2023
+482, Chick Lit,Me Before You,Jojo Moyes (Goodreads Author),3.14,22/01/2023
+483, Fiction,The Mark of Athena,Rick Riordan (Goodreads Author),5.11,22/01/2023
+484, Dogs,The Art of Racing in the Rain,Garth Stein (Goodreads Author),5.27,22/01/2023
+485, High Fantasy,The Way of Kings,Brandon Sanderson (Goodreads Author),22.74,22/01/2023
+486, Fiction,If I Stay,Gayle Forman (Goodreads Author),3.82,22/01/2023
+487, Animals,Black Beauty,Anna Sewell,3.16,22/01/2023
+488, Irish Literature,A Portrait of the Artist as a Young Man,James Joyce,5.87,22/01/2023
+489, Adventure,Gullivers Travels,Jonathan Swift,3.27,22/01/2023
+490, Book Club,Bel Canto,Ann Patchett,2.86,22/01/2023
+491, Classics,American Psycho,Bret Easton Ellis,3.34,22/01/2023
+492, Dystopia,V for Vendetta,Alan Moore (Goodreads Author),14.65,22/01/2023
+493, Classics,Love You Forever,Robert Munsch,3.46,22/01/2023
+494, Classics,The Witches,Roald Dahl,3.84,22/01/2023
+495, Horror,The Graveyard Book,Neil Gaiman (Goodreads Author),3.87,22/01/2023
+496, Historical Fiction,The Complete Novels,Jane Austen,2.76,22/01/2023
+497, BDSM,Fifty Shades Freed,E.L. James (Goodreads Author),4,22/01/2023
+498, Romance,Cold Mountain,Charles Frazier,4.21,22/01/2023
+499, Animals,White Fang,Jack London,3.16,22/01/2023
+500, Fantasy,Beowulf,Unknown,4.55,22/01/2023
+501, Fiction,Tuck Everlasting,Natalie Babbitt,3.1,22/01/2023
+502, High Fantasy,The Final Empire,Brandon Sanderson (Goodreads Author),20.93,22/01/2023
+503, Romance,Beautiful Creatures,Kami Garcia (Goodreads Author),6.29,22/01/2023
+504, German Literature,Steppenwolf,Hermann Hesse,2.71,22/01/2023
+505, Dragons,Eldest,Christopher Paolini (Goodreads Author),3.11,22/01/2023
+506, Paranormal Romance,Dark Lover,J.R. Ward (Goodreads Author),3.89,22/01/2023
+507, Contemporary,Go Ask Alice,Beatrice Sparks (as Anonymous),2.98,22/01/2023
+508, High Fantasy,The Eye of the World,Robert Jordan,5.13,22/01/2023
+509, Short Stories,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,5.58,22/01/2023
+510, Novels,As I Lay Dying,William Faulkner,3.81,22/01/2023
+511, Historical Fiction,A Separate Peace,John Knowles,2.82,22/01/2023
+512, History,The Complete Maus,Art Spiegelman,13.84,22/01/2023
+513, Historical Fiction,Mansfield Park,Jane Austen,3.11,22/01/2023
+514, Literature,The Amazing Adventures of Kavalier & Clay,Michael Chabon,3.76,22/01/2023
+515, Dragons,Brisingr,Christopher Paolini (Goodreads Author),3.92,22/01/2023
+516, Psychology,A Child Called It,Dave Pelzer (Goodreads Author),2.93,22/01/2023
+517, Realistic Fiction,Stargirl,Jerry Spinelli,2.25,22/01/2023
+518, Classics,Tao Te Ching,Lao Tzu,8,22/01/2023
+519, Contemporary,Dear John,Nicholas Sparks (Goodreads Author),1.64,22/01/2023
+520, Classics,Midnights Children,Salman Rushdie,0.85,22/01/2023
+521, Fantasy,Salems Lot,Stephen King (Goodreads Author),1.12,22/01/2023
+522, Short Stories,The Martian Chronicles,Ray Bradbury,3.63,22/01/2023
+523, Paranormal,Crescendo,Becca Fitzpatrick (Goodreads Author),5.8,22/01/2023
+524, Romance,The English Patient,Michael Ondaatje,16.05,22/01/2023
+525, Literature,East of Eden,John Steinbeck,5.26,22/01/2023
+526, Historical Fiction,Cloud Atlas,David Mitchell,1.15,22/01/2023
+527, Spirituality,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,4.41,22/01/2023
+528, Adventure,The Martian,Andy Weir (Goodreads Author),2.63,22/01/2023
+529, Suspense,The Firm,John Grisham (Goodreads Author),3.09,22/01/2023
+530, Contemporary,The Last Song,Nicholas Sparks (Goodreads Author),3.28,22/01/2023
+531, Literature,My Ántonia,Willa Cather,2.86,22/01/2023
+532, Romance,Shatter Me,Tahereh Mafi,4.81,22/01/2023
+533, Science Fiction,The Amber Spyglass,Philip Pullman,1.64,22/01/2023
+534, Russia,Doctor Zhivago,Boris Pasternak,6.56,22/01/2023
+535, France,The Hunchback of Notre-Dame,Victor Hugo,3.32,10/08/2023
+536, Literature,Inferno,Dante Alighieri,5.34,10/08/2023
+537, Historical Fiction,Like Water for Chocolate,Laura Esquivel,2.6,10/08/2023
+538, Fiction,Dragonfly in Amber,Diana Gabaldon (Goodreads Author),4.8,10/08/2023
+539, Humor,Breakfast of Champions,Kurt Vonnegut Jr.,2.82,10/08/2023
+540, Classics,The BFG,Roald Dahl,2.75,10/08/2023
+541, Young Adult Fantasy,Six of Crows,Leigh Bardugo (Goodreads Author),5.78,10/08/2023
+542, Magic,Harry Potter Series Box Set,J.K. Rowling,77.25,10/08/2023
+543, Biology,The Origin of Species,Charles Darwin,5.58,10/08/2023
+544, Canada,A Fine Balance,Rohinton Mistry,7.31,10/08/2023
+545, Paranormal,Daughter of Smoke & Bone,Laini Taylor (Goodreads Author),4.99,10/08/2023
+546, Science Fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.35,10/08/2023
+547, Paranormal,City of Heavenly Fire,Cassandra Clare (Goodreads Author),8.37,10/08/2023
+548, Romance,Evermore,Alyson Noel (Goodreads Author),1.45,10/08/2023
+549, Drama,Death of a Salesman,Arthur Miller,3.92,10/08/2023
+550, Time Travel,11/22/63,Stephen King (Goodreads Author),6.21,10/08/2023
+551, Crime,Midnight in the Garden of Good and Evil,John Berendt,4.43,10/08/2023
+552, Fiction,A Streetcar Named Desire,Tennessee Williams,5.26,10/08/2023
+553, Novels,Infinite Jest,David Foster Wallace,10.18,10/08/2023
+554, Politics,The Prince,Niccolò Machiavelli,5.68,10/08/2023
+555, Drama,Hamlet,William Shakespeare,2.2,10/08/2023
+556, Poetry,Faust,Johann Wolfgang von Goethe,6.32,10/08/2023
+557, Chick Lit,Anna and the French Kiss,Stephanie Perkins (Goodreads Author),3.11,10/08/2023
+558, Science Fiction Fantasy,A Feast for Crows,George R.R. Martin,5,10/08/2023
+559, Fiction,The Angel Experiment,James Patterson (Goodreads Author),3.43,10/08/2023
+560, Science Fiction,Matched,Ally Condie (Goodreads Author),1.64,10/08/2023
+561, Mystery,Flowers in the Attic,V.C. Andrews,8.77,10/08/2023
+562, Canada,The Shipping News,Annie Proulx,1.29,10/08/2023
+563, World War II,Unbroken: A World War II Story of Survival,Laura Hillenbrand,1.15,10/08/2023
+564, Young Adult,The Chosen,Chaim Potok,2,10/08/2023
+565, Humor,High Fidelity,Nick Hornby,2.58,10/08/2023
+566, War,All the Light We Cannot See,Anthony Doerr (Goodreads Author),4.45,10/08/2023
+567, Mystery,Houdini Heart,Ki Longfellow (Goodreads Author),4.58,10/08/2023
+568, Middle Grade,Artemis Fowl,Eoin Colfer,4.97,10/08/2023
+569, Young Adult,Pippi Longstocking,Astrid Lindgren,6.7,10/08/2023
+570, Short Stories,The Tales of Beedle the Bard,J.K. Rowling,1.79,10/08/2023
+571, Young Adult,The Virgin Suicides,Jeffrey Eugenides,2.67,10/08/2023
+572, Classics,The Reader,Bernhard Schlink,3.16,10/08/2023
+573, Adult,Nineteen Minutes,Jodi Picoult (Goodreads Author),2.66,10/08/2023
+574, Fiction,The House of Hades,Rick Riordan (Goodreads Author),8,10/08/2023
+575, Adventure,Shantaram,Gregory David Roberts,5.97,10/08/2023
+576, Crime,The Devil in the White City: Murder,Erik Larson (Goodreads Author),6.78,10/08/2023
+577, Romance,Redeeming Love,Francine Rivers (Goodreads Author),3.81,10/08/2023
+578, Romance,The Age of Innocence,Edith Wharton,3.77,10/08/2023
+579, Romance,The Host,Stephenie Meyer,3.89,10/08/2023
+580, Mystery Thriller,The Lost Symbol,Dan Brown (Goodreads Author),0.85,10/08/2023
+581, Paranormal,Betrayed,P.C. Cast (Goodreads Author),3.38,10/08/2023
+582, Literature,The Grapes of Wrath,John Steinbeck,27.35,10/08/2023
+583, Historical Fiction,Northanger Abbey,Jane Austen,0.85,10/08/2023
+584, Young Adult,The Voyage of the Dawn Treader,C.S. Lewis,7.83,10/08/2023
+585, Ireland,Dubliners,James Joyce,2.74,10/08/2023
+586, Paranormal Romance,Lover Awakened,J.R. Ward (Goodreads Author),2.5,10/08/2023
+587, New Adult,A Court of Thorns and Roses,Sarah J. Maas (Goodreads Author),18.9,10/08/2023
+588, Adult Fiction,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells (Goodreads Author),1.71,10/08/2023
+589, Literature,The Waste Land,T.S. Eliot,5.26,10/08/2023
+590, Paranormal,Untamed,P.C. Cast (Goodreads Author),2.87,10/08/2023
+591, Novels,Everything Is Illuminated,Jonathan Safran Foer (Goodreads Author),1.45,10/08/2023
+592, Magic,Crown of Midnight,Sarah J. Maas (Goodreads Author),18.19,10/08/2023
+593, Biography,I Know Why the Caged Bird Sings,Maya Angelou,4.64,10/08/2023
+594, Short Stories,I Robot,Isaac Asimov,8.99,10/08/2023
+595, Romance,The Twilight Collection,Stephenie Meyer,28.05,10/08/2023
+596, School,The Pearl,John Steinbeck,12.38,10/08/2023
+597, Fantasy,The One,Kiera Cass (Goodreads Author),3.39,10/08/2023
+598, Literature,The Jungle,Upton Sinclair,2.94,10/08/2023
+599, Paranormal,Carrie,Stephen King (Goodreads Author),7.01,10/08/2023
+600, Historical,Snow Falling on Cedars,David Guterson,1.79,10/08/2023
+601, Fiction,Voyager,Diana Gabaldon (Goodreads Author),5.97,10/08/2023
+602, Historical,I Claudius,Robert Graves,3.38,10/08/2023
+603, Magic,Heir of Fire,Sarah J. Maas (Goodreads Author),8.99,10/08/2023
+604, Essays,Me Talk Pretty One Day,David Sedaris,1.44,10/08/2023
+605, Paranormal,Chosen,P.C. Cast (Goodreads Author),1.79,10/08/2023
+606, Historical Fiction,A Room with a View,E.M. Forster,9.24,10/08/2023
+607, 19th Century,Bleak House,Charles Dickens,5.51,10/08/2023
+608, Politics,The Republic,Plato,2.85,10/08/2023
+609, Young Adult,The Last Battle,C.S. Lewis,1.79,10/08/2023
+610, Paranormal,The Exorcist,William Peter Blatty,6.49,10/08/2023
+611, Drama,The Elephant Tree,R.D. Ronald,5.42,10/08/2023
+612, Young Adult,Coraline,Neil Gaiman (Goodreads Author),11.55,10/08/2023
+613, Literature,Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,3.56,10/08/2023
+614, Fiction,The 5th Wave,Rick Yancey,1.64,10/08/2023
+615, Paranormal,The Iron King,Julie Kagawa (Goodreads Author),3.81,10/08/2023
+616, Novels,Quantum Roots II: Worm Holes,Kyle Keyes,14.36,10/08/2023
+617, Romance,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz (Goodreads Author),19.17,10/08/2023
+,,,,5.09,13/10/2022
+,,,,7.38,13/10/2022
+,,,,2.1,13/10/2022
+,,,,3.8,13/10/2022
+,,,,4.42,13/10/2022
+,,,,21.15,13/10/2022
+,,,,5.58,13/10/2022
+,,,,4.87,13/10/2022
+,,,,2.73,13/10/2022
+,,,,2.76,13/10/2022
+,,,,3.07,13/10/2022
+,,,,5.46,13/10/2022
+,,,,0.88,13/10/2022
+,,,,1.89,13/10/2022
+,,,,6.79,13/10/2022
+,,,,13.22,13/10/2022
+,,,,18.85,13/10/2022
+,,,,6.29,13/10/2022
+,,,,4.6,13/10/2022
+,,,,6.07,13/10/2022
+,,,,6.15,13/10/2022
+,,,,5.75,13/10/2022
+,,,,4.55,13/10/2022
+,,,,3.78,13/10/2022
+,,,,2.6,13/10/2022
+,,,,6.23,13/10/2022
+,,,,1.79,13/10/2022
+,,,,3.33,13/10/2022
+,,,,1.16,13/10/2022
+,,,,4.8,13/10/2022
+,,,,4.01,13/10/2022
+,,,,6.99,13/10/2022
+,,,,1.91,13/10/2022
+,,,,3.67,13/10/2022
+,,,,2.98,13/10/2022
+,,,,3.65,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.12,13/10/2022
+,,,,3.46,13/10/2022
+,,,,8.5,13/10/2022
+,,,,8.75,13/10/2022
+,,,,7.15,13/10/2022
+,,,,3.32,13/10/2022
+,,,,29.34,13/10/2022
+,,,,8.38,13/10/2022
+,,,,5.25,13/10/2022
+,,,,0.85,13/10/2022
+,,,,5.51,13/10/2022
+,,,,2.85,13/10/2022
+,,,,5.98,13/10/2022
+,,,,2.76,13/10/2022
+,,,,6.01,13/10/2022
+,,,,13.75,13/10/2022
+,,,,5.01,13/10/2022
+,,,,13.05,13/10/2022
+,,,,6.83,13/10/2022
+,,,,5.51,13/10/2022
+,,,,2.76,13/10/2022
+,,,,3.33,13/10/2022
+,,,,4.12,13/10/2022
+,,,,1.61,13/10/2022
+,,,,9.04,13/10/2022
+,,,,4.41,13/10/2022
+,,,,5.94,13/10/2022
+,,,,15.63,13/10/2022
+,,,,5.3,13/10/2022
+,,,,5.27,13/10/2022
+,,,,2.66,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.87,13/10/2022
+,,,,5.26,13/10/2022
+,,,,3.5,13/10/2022
+,,,,4.62,13/10/2022
+,,,,4.82,13/10/2022
+,,,,3.11,13/10/2022
+,,,,13.56,13/10/2022
+,,,,9.36,13/10/2022
+,,,,7.59,13/10/2022
+,,,,3.36,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.13,13/10/2022
+,,,,1.91,13/10/2022
+,,,,2.94,13/10/2022
+,,,,2.42,13/10/2022
+,,,,3.27,13/10/2022
+,,,,11.62,13/10/2022
+,,,,4.07,13/10/2022
+,,,,5.4,13/10/2022
+,,,,4.17,13/10/2022
+,,,,1.91,13/10/2022
+,,,,6.58,13/10/2022
+,,,,10.16,13/10/2022
+,,,,3.57,13/10/2022
+,,,,2.55,13/10/2022
+,,,,0.85,13/10/2022
+,,,,6.13,13/10/2022
+,,,,4.55,13/10/2022
+,,,,2.6,13/10/2022
+,,,,3.1,13/10/2022
+,,,,4.85,13/10/2022
+,,,,5.71,13/10/2022
+,,,,7.44,22/01/2023
+,,,,13.66,22/01/2023
+,,,,5.26,22/01/2023
+,,,,2.32,22/01/2023
+,,,,4.68,22/01/2023
+,,,,3.17,22/01/2023
+,,,,3.36,22/01/2023
+,,,,2.76,22/01/2023
+,,,,2.76,22/01/2023
+,,,,2.86,22/01/2023
+,,,,5.26,22/01/2023
+,,,,5.56,22/01/2023
+,,,,14.2,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.69,22/01/2023
+,,,,41.26,22/01/2023
+,,,,3.73,22/01/2023
+,,,,5.27,22/01/2023
+,,,,7.19,22/01/2023
+,,,,3,22/01/2023
+,,,,4,22/01/2023
+,,,,5.8,22/01/2023
+,,,,3.43,22/01/2023
+,,,,1.91,22/01/2023
+,,,,4.74,22/01/2023
+,,,,5.26,22/01/2023
+,,,,5.38,22/01/2023
+,,,,4.55,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.79,22/01/2023
+,,,,4.09,22/01/2023
+,,,,5.01,22/01/2023
+,,,,3.25,22/01/2023
+,,,,3.17,22/01/2023
+,,,,7.54,22/01/2023
+,,,,5.6,22/01/2023
+,,,,3.57,22/01/2023
+,,,,3.9,22/01/2023
+,,,,0.91,22/01/2023
+,,,,3.86,22/01/2023
+,,,,2.76,22/01/2023
+,,,,7.04,22/01/2023
+,,,,2.41,22/01/2023
+,,,,2.56,22/01/2023
+,,,,3.57,22/01/2023
+,,,,2.87,22/01/2023
+,,,,0.85,22/01/2023
+,,,,3.8,22/01/2023
+,,,,7.02,22/01/2023
+,,,,4.64,22/01/2023
+,,,,17.07,22/01/2023
+,,,,5.6,22/01/2023
+,,,,3.8,22/01/2023
+,,,,5.91,22/01/2023
+,,,,5.01,22/01/2023
+,,,,5.9,22/01/2023
+,,,,3.66,22/01/2023
+,,,,10.25,22/01/2023
+,,,,4.59,22/01/2023
+,,,,5.69,22/01/2023
+,,,,6.15,22/01/2023
+,,,,3.98,22/01/2023
+,,,,5.69,22/01/2023
+,,,,3.17,22/01/2023
+,,,,4.18,22/01/2023
+,,,,2.86,22/01/2023
+,,,,4.17,22/01/2023
+,,,,12.08,22/01/2023
+,,,,3.11,22/01/2023
+,,,,7.05,22/01/2023
+,,,,3.58,22/01/2023
+,,,,4.75,22/01/2023
+,,,,7.37,22/01/2023
+,,,,1.91,22/01/2023
+,,,,2.86,22/01/2023
+,,,,5.29,22/01/2023
+,,,,1.91,22/01/2023
+,,,,22.25,22/01/2023
+,,,,17.56,22/01/2023
+,,,,1.91,22/01/2023
+,,,,1.79,22/01/2023
+,,,,3.65,22/01/2023
+,,,,5.69,22/01/2023
+,,,,3.32,22/01/2023
+,,,,110.67,22/01/2023
+,,,,3.1,22/01/2023
+,,,,1.12,22/01/2023
+,,,,5.95,22/01/2023
+,,,,6.4,22/01/2023
+,,,,1.64,22/01/2023
+,,,,9.11,22/01/2023
+,,,,4.89,22/01/2023
+,,,,2.86,22/01/2023
+,,,,6.76,22/01/2023
+,,,,8.08,22/01/2023
+,,,,1.61,22/01/2023
+,,,,5.68,22/01/2023
+,,,,5.07,22/01/2023
+,,,,5.46,22/01/2023
+,,,,3.78,22/01/2023
+,,,,2.66,22/01/2023
+,,,,2.94,22/01/2023
+,,,,4.66,22/01/2023
+,,,,3.75,22/01/2023
+,,,,3.52,22/01/2023
+,,,,3.56,22/01/2023
+,,,,11.24,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.4,22/01/2023
+,,,,2.76,22/01/2023
+,,,,1.91,22/01/2023
+,,,,2.63,22/01/2023
+,,,,4.44,22/01/2023
+,,,,1.76,22/01/2023
+,,,,15.29,22/01/2023
+,,,,13,22/01/2023
+,,,,3.32,22/01/2023
+,,,,5.14,22/01/2023
+,,,,3.11,22/01/2023
+,,,,8.22,22/01/2023
+,,,,2.49,22/01/2023
+,,,,11.9,22/01/2023
+,,,,5.26,22/01/2023
+,,,,3.43,22/01/2023
+,,,,16.37,22/01/2023
+,,,,10.36,22/01/2023
+,,,,4.08,22/01/2023
+,,,,7.15,22/01/2023
+,,,,6.46,22/01/2023
+,,,,6.42,22/01/2023
+,,,,3.16,22/01/2023
+,,,,16.54,22/01/2023
+,,,,6.33,22/01/2023
+,,,,16.53,22/01/2023
+,,,,5.49,22/01/2023
+,,,,5.46,22/01/2023
+,,,,4.48,22/01/2023
+,,,,1.33,22/01/2023
+,,,,3.43,22/01/2023
+,,,,4.19,22/01/2023
+,,,,4,22/01/2023
+,,,,2.86,22/01/2023
+,,,,6.7,22/01/2023
+,,,,8.29,22/01/2023
+,,,,2.76,22/01/2023
+,,,,1.06,22/01/2023
+,,,,2.17,22/01/2023
+,,,,3.14,22/01/2023
+,,,,5.11,22/01/2023
+,,,,5.27,22/01/2023
+,,,,22.74,22/01/2023
+,,,,3.82,22/01/2023
+,,,,3.16,22/01/2023
+,,,,5.87,22/01/2023
+,,,,3.27,22/01/2023
+,,,,2.86,22/01/2023
+,,,,3.34,22/01/2023
+,,,,14.65,22/01/2023
+,,,,3.46,22/01/2023
+,,,,3.84,22/01/2023
+,,,,3.87,22/01/2023
+,,,,2.76,22/01/2023
+,,,,4,22/01/2023
+,,,,4.21,22/01/2023
+,,,,3.16,22/01/2023
+,,,,4.55,22/01/2023
+,,,,3.1,22/01/2023
+,,,,20.93,22/01/2023
+,,,,6.29,22/01/2023
+,,,,2.71,22/01/2023
+,,,,3.11,22/01/2023
+,,,,3.89,22/01/2023
+,,,,2.98,22/01/2023
+,,,,5.13,22/01/2023
+,,,,5.58,22/01/2023
+,,,,3.81,22/01/2023
+,,,,2.82,22/01/2023
+,,,,13.84,22/01/2023
+,,,,3.11,22/01/2023
+,,,,3.76,22/01/2023
+,,,,3.92,22/01/2023
+,,,,2.93,22/01/2023
+,,,,2.25,22/01/2023
+,,,,8,22/01/2023
+,,,,1.64,22/01/2023
+,,,,0.85,22/01/2023
+,,,,1.12,22/01/2023
+,,,,3.63,22/01/2023
+,,,,5.8,22/01/2023
+,,,,16.05,22/01/2023
+,,,,5.26,22/01/2023
+,,,,1.15,22/01/2023
+,,,,4.41,22/01/2023
+,,,,2.63,22/01/2023
+,,,,3.09,22/01/2023
+,,,,3.28,22/01/2023
+,,,,2.86,22/01/2023
+,,,,4.81,22/01/2023
+,,,,1.64,22/01/2023
+,,,,6.56,22/01/2023
+,,,,3.32,10/08/2023
+,,,,5.34,10/08/2023
+,,,,2.6,10/08/2023
+,,,,4.8,10/08/2023
+,,,,2.82,10/08/2023
+,,,,2.75,10/08/2023
+,,,,5.78,10/08/2023
+,,,,77.25,10/08/2023
+,,,,5.58,10/08/2023
+,,,,7.31,10/08/2023
+,,,,4.99,10/08/2023
+,,,,3.35,10/08/2023
+,,,,8.37,10/08/2023
+,,,,1.45,10/08/2023
+,,,,3.92,10/08/2023
+,,,,6.21,10/08/2023
+,,,,4.43,10/08/2023
+,,,,5.26,10/08/2023
+,,,,10.18,10/08/2023
+,,,,5.68,10/08/2023
+,,,,2.2,10/08/2023
+,,,,6.32,10/08/2023
+,,,,3.11,10/08/2023
+,,,,5,10/08/2023
+,,,,3.43,10/08/2023
+,,,,1.64,10/08/2023
+,,,,8.77,10/08/2023
+,,,,1.29,10/08/2023
+,,,,1.15,10/08/2023
+,,,,2,10/08/2023
+,,,,2.58,10/08/2023
+,,,,4.45,10/08/2023
+,,,,4.58,10/08/2023
+,,,,4.97,10/08/2023
+,,,,6.7,10/08/2023
+,,,,1.79,10/08/2023
+,,,,2.67,10/08/2023
+,,,,3.16,10/08/2023
+,,,,2.66,10/08/2023
+,,,,8,10/08/2023
+,,,,5.97,10/08/2023
+,,,,6.78,10/08/2023
+,,,,3.81,10/08/2023
+,,,,3.77,10/08/2023
+,,,,3.89,10/08/2023
+,,,,0.85,10/08/2023
+,,,,3.38,10/08/2023
+,,,,27.35,10/08/2023
+,,,,0.85,10/08/2023
+,,,,7.83,10/08/2023
+,,,,2.74,10/08/2023
+,,,,2.5,10/08/2023
+,,,,18.9,10/08/2023
+,,,,1.71,10/08/2023
+,,,,5.26,10/08/2023
+,,,,2.87,10/08/2023
+,,,,1.45,10/08/2023
+,,,,18.19,10/08/2023
+,,,,4.64,10/08/2023
+,,,,8.99,10/08/2023
+,,,,28.05,10/08/2023
+,,,,12.38,10/08/2023
+,,,,3.39,10/08/2023
+,,,,2.94,10/08/2023
+,,,,7.01,10/08/2023
+,,,,1.79,10/08/2023
+,,,,5.97,10/08/2023
+,,,,3.38,10/08/2023
+,,,,8.99,10/08/2023
+,,,,1.44,10/08/2023
+,,,,1.79,10/08/2023
+,,,,9.24,10/08/2023
+,,,,5.51,10/08/2023
+,,,,2.85,10/08/2023
+,,,,1.79,10/08/2023
+,,,,6.49,10/08/2023
+,,,,5.42,10/08/2023
+,,,,11.55,10/08/2023
+,,,,3.56,10/08/2023
+,,,,1.64,10/08/2023
+,,,,3.81,10/08/2023
+,,,,14.36,10/08/2023
+,,,,19.17,10/08/2023
+,,,,5.09,13/10/2022
+,,,,7.38,13/10/2022
+,,,,2.1,13/10/2022
+,,,,3.8,13/10/2022
+,,,,4.42,13/10/2022
+,,,,21.15,13/10/2022
+,,,,5.58,13/10/2022
+,,,,4.87,13/10/2022
+,,,,2.73,13/10/2022
+,,,,2.76,13/10/2022
+,,,,3.07,13/10/2022
+,,,,5.46,13/10/2022
+,,,,0.88,13/10/2022
+,,,,1.89,13/10/2022
+,,,,6.79,13/10/2022
+,,,,13.22,13/10/2022
+,,,,18.85,13/10/2022
+,,,,6.29,13/10/2022
+,,,,4.6,13/10/2022
+,,,,6.07,13/10/2022
+,,,,6.15,13/10/2022
+,,,,5.75,13/10/2022
+,,,,4.55,13/10/2022
+,,,,3.78,13/10/2022
+,,,,2.6,13/10/2022
+,,,,6.23,13/10/2022
+,,,,1.79,13/10/2022
+,,,,3.33,13/10/2022
+,,,,1.16,13/10/2022
+,,,,4.8,13/10/2022
+,,,,4.01,13/10/2022
+,,,,6.99,13/10/2022
+,,,,1.91,13/10/2022
+,,,,3.67,13/10/2022
+,,,,2.98,13/10/2022
+,,,,3.65,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.12,13/10/2022
+,,,,3.46,13/10/2022
+,,,,8.5,13/10/2022
+,,,,8.75,13/10/2022
+,,,,7.15,13/10/2022
+,,,,3.32,13/10/2022
+,,,,29.34,13/10/2022
+,,,,8.38,13/10/2022
+,,,,5.25,13/10/2022
+,,,,0.85,13/10/2022
+,,,,5.51,13/10/2022
+,,,,2.85,13/10/2022
+,,,,5.98,13/10/2022
+,,,,2.76,13/10/2022
+,,,,6.01,13/10/2022
+,,,,13.75,13/10/2022
+,,,,5.01,13/10/2022
+,,,,13.05,13/10/2022
+,,,,6.83,13/10/2022
+,,,,5.51,13/10/2022
+,,,,2.76,13/10/2022
+,,,,3.33,13/10/2022
+,,,,4.12,13/10/2022
+,,,,1.61,13/10/2022
+,,,,9.04,13/10/2022
+,,,,4.41,13/10/2022
+,,,,5.94,13/10/2022
+,,,,15.63,13/10/2022
+,,,,5.3,13/10/2022
+,,,,5.27,13/10/2022
+,,,,2.66,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.87,13/10/2022
+,,,,5.26,13/10/2022
+,,,,3.5,13/10/2022
+,,,,4.62,13/10/2022
+,,,,4.82,13/10/2022
+,,,,3.11,13/10/2022
+,,,,13.56,13/10/2022
+,,,,9.36,13/10/2022
+,,,,7.59,13/10/2022
+,,,,3.36,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.13,13/10/2022
+,,,,1.91,13/10/2022
+,,,,2.94,13/10/2022
+,,,,2.42,13/10/2022
+,,,,3.27,13/10/2022
+,,,,11.62,13/10/2022
+,,,,4.07,13/10/2022
+,,,,5.4,13/10/2022
+,,,,4.17,13/10/2022
+,,,,1.91,13/10/2022
+,,,,6.58,13/10/2022
+,,,,10.16,13/10/2022
+,,,,3.57,13/10/2022
+,,,,2.55,13/10/2022
+,,,,0.85,13/10/2022
+,,,,6.13,13/10/2022
+,,,,4.55,13/10/2022
+,,,,2.6,13/10/2022
+,,,,3.1,13/10/2022
+,,,,4.85,13/10/2022
+,,,,5.71,13/10/2022
+,,,,7.44,22/01/2023
+,,,,13.66,22/01/2023
+,,,,5.26,22/01/2023
+,,,,2.32,22/01/2023
+,,,,4.68,22/01/2023
+,,,,3.17,22/01/2023
+,,,,3.36,22/01/2023
+,,,,2.76,22/01/2023
+,,,,2.76,22/01/2023
+,,,,2.86,22/01/2023
+,,,,5.26,22/01/2023
+,,,,5.56,22/01/2023
+,,,,14.2,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.69,22/01/2023
+,,,,41.26,22/01/2023
+,,,,3.73,22/01/2023
+,,,,5.27,22/01/2023
+,,,,7.19,22/01/2023
+,,,,3,22/01/2023
+,,,,4,22/01/2023
+,,,,5.8,22/01/2023
+,,,,3.43,22/01/2023
+,,,,1.91,22/01/2023
+,,,,4.74,22/01/2023
+,,,,5.26,22/01/2023
+,,,,5.38,22/01/2023
+,,,,4.55,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.79,22/01/2023
+,,,,4.09,22/01/2023
+,,,,5.01,22/01/2023
+,,,,3.25,22/01/2023
+,,,,3.17,22/01/2023
+,,,,7.54,22/01/2023
+,,,,5.6,22/01/2023
+,,,,3.57,22/01/2023
+,,,,3.9,22/01/2023
+,,,,0.91,22/01/2023
+,,,,3.86,22/01/2023
+,,,,2.76,22/01/2023
+,,,,7.04,22/01/2023
+,,,,2.41,22/01/2023
+,,,,2.56,22/01/2023
+,,,,3.57,22/01/2023
+,,,,2.87,22/01/2023
+,,,,0.85,22/01/2023
+,,,,3.8,22/01/2023
+,,,,7.02,22/01/2023
+,,,,4.64,22/01/2023
+,,,,17.07,22/01/2023
+,,,,5.6,22/01/2023
+,,,,3.8,22/01/2023
+,,,,5.91,22/01/2023
+,,,,5.01,22/01/2023
+,,,,5.9,22/01/2023
+,,,,3.66,22/01/2023
+,,,,10.25,22/01/2023
+,,,,4.59,22/01/2023
+,,,,5.69,22/01/2023
+,,,,6.15,22/01/2023
+,,,,3.98,22/01/2023
+,,,,5.69,22/01/2023
+,,,,3.17,22/01/2023
+,,,,4.18,22/01/2023
+,,,,2.86,22/01/2023
+,,,,4.17,22/01/2023
+,,,,12.08,22/01/2023
+,,,,3.11,22/01/2023
+,,,,7.05,22/01/2023
+,,,,3.58,22/01/2023
+,,,,4.75,22/01/2023
+,,,,7.37,22/01/2023
+,,,,1.91,22/01/2023
+,,,,2.86,22/01/2023
+,,,,5.29,22/01/2023
+,,,,1.91,22/01/2023
+,,,,22.25,22/01/2023
+,,,,17.56,22/01/2023
+,,,,1.91,22/01/2023
+,,,,1.79,22/01/2023
+,,,,3.65,22/01/2023
+,,,,5.69,22/01/2023
+,,,,3.32,22/01/2023
+,,,,110.67,22/01/2023
+,,,,3.1,22/01/2023
+,,,,1.12,22/01/2023
+,,,,5.95,22/01/2023
+,,,,6.4,22/01/2023
+,,,,1.64,22/01/2023
+,,,,9.11,22/01/2023
+,,,,4.89,22/01/2023
+,,,,2.86,22/01/2023
+,,,,6.76,22/01/2023
+,,,,8.08,22/01/2023
+,,,,1.61,22/01/2023
+,,,,5.68,22/01/2023
+,,,,5.07,22/01/2023
+,,,,5.46,22/01/2023
+,,,,3.78,22/01/2023
+,,,,2.66,22/01/2023
+,,,,2.94,22/01/2023
+,,,,4.66,22/01/2023
+,,,,3.75,22/01/2023
+,,,,3.52,22/01/2023
+,,,,3.56,22/01/2023
+,,,,11.24,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.4,22/01/2023
+,,,,2.76,22/01/2023
+,,,,1.91,22/01/2023
+,,,,2.63,22/01/2023
+,,,,4.44,22/01/2023
+,,,,1.76,22/01/2023
+,,,,15.29,22/01/2023
+,,,,13,22/01/2023
+,,,,3.32,22/01/2023
+,,,,5.14,22/01/2023
+,,,,3.11,22/01/2023
+,,,,8.22,22/01/2023
+,,,,2.49,22/01/2023
+,,,,11.9,22/01/2023
+,,,,5.26,22/01/2023
+,,,,3.43,22/01/2023
+,,,,16.37,22/01/2023
+,,,,10.36,22/01/2023
+,,,,4.08,22/01/2023
+,,,,7.15,22/01/2023
+,,,,6.46,22/01/2023
+,,,,6.42,22/01/2023
+,,,,3.16,22/01/2023
+,,,,16.54,22/01/2023
+,,,,6.33,22/01/2023
+,,,,16.53,22/01/2023
+,,,,5.49,22/01/2023
+,,,,5.46,22/01/2023
+,,,,4.48,22/01/2023
+,,,,1.33,22/01/2023
+,,,,3.43,22/01/2023
+,,,,4.19,22/01/2023
+,,,,4,22/01/2023
+,,,,2.86,22/01/2023
+,,,,6.7,22/01/2023
+,,,,8.29,22/01/2023
+,,,,2.76,22/01/2023
+,,,,1.06,22/01/2023
+,,,,2.17,22/01/2023
+,,,,3.14,22/01/2023
+,,,,5.11,22/01/2023
+,,,,5.27,22/01/2023
+,,,,22.74,22/01/2023
+,,,,3.82,22/01/2023
+,,,,3.16,22/01/2023
+,,,,5.87,22/01/2023
+,,,,3.27,22/01/2023
+,,,,2.86,22/01/2023
+,,,,3.34,22/01/2023
+,,,,14.65,22/01/2023
+,,,,3.46,22/01/2023
+,,,,3.84,22/01/2023
+,,,,3.87,22/01/2023
+,,,,2.76,22/01/2023
+,,,,4,22/01/2023
+,,,,4.21,22/01/2023
+,,,,3.16,22/01/2023
+,,,,4.55,22/01/2023
+,,,,3.1,22/01/2023
+,,,,20.93,22/01/2023
+,,,,6.29,22/01/2023
+,,,,2.71,22/01/2023
+,,,,3.11,22/01/2023
+,,,,3.89,22/01/2023
+,,,,2.98,22/01/2023
+,,,,5.13,22/01/2023
+,,,,5.58,22/01/2023
+,,,,3.81,22/01/2023
+,,,,2.82,22/01/2023
+,,,,13.84,22/01/2023
+,,,,3.11,22/01/2023
+,,,,3.76,22/01/2023
+,,,,3.92,22/01/2023
+,,,,2.93,22/01/2023
+,,,,2.25,22/01/2023
+,,,,8,22/01/2023
+,,,,1.64,22/01/2023
+,,,,0.85,22/01/2023
+,,,,1.12,22/01/2023
+,,,,3.63,22/01/2023
+,,,,5.8,22/01/2023
+,,,,16.05,22/01/2023
+,,,,5.26,22/01/2023
+,,,,1.15,22/01/2023
+,,,,4.41,22/01/2023
+,,,,2.63,22/01/2023
+,,,,3.09,22/01/2023
+,,,,3.28,22/01/2023
+,,,,2.86,22/01/2023
+,,,,4.81,22/01/2023
+,,,,1.64,22/01/2023
+,,,,6.56,22/01/2023
+,,,,3.32,10/08/2023
+,,,,5.34,10/08/2023
+,,,,2.6,10/08/2023
+,,,,4.8,10/08/2023
+,,,,2.82,10/08/2023
+,,,,2.75,10/08/2023
+,,,,5.78,10/08/2023
+,,,,77.25,10/08/2023
+,,,,5.58,10/08/2023
+,,,,7.31,10/08/2023
+,,,,4.99,10/08/2023
+,,,,3.35,10/08/2023
+,,,,8.37,10/08/2023
+,,,,1.45,10/08/2023
+,,,,3.92,10/08/2023
+,,,,6.21,10/08/2023
+,,,,4.43,10/08/2023
+,,,,5.26,10/08/2023
+,,,,10.18,10/08/2023
+,,,,5.68,10/08/2023
+,,,,2.2,10/08/2023
+,,,,6.32,10/08/2023
+,,,,3.11,10/08/2023
+,,,,5,10/08/2023
+,,,,3.43,10/08/2023
+,,,,1.64,10/08/2023
+,,,,8.77,10/08/2023
+,,,,1.29,10/08/2023
+,,,,1.15,10/08/2023
+,,,,2,10/08/2023
+,,,,2.58,10/08/2023
+,,,,4.45,10/08/2023
+,,,,4.58,10/08/2023
+,,,,4.97,10/08/2023
+,,,,6.7,10/08/2023
+,,,,1.79,10/08/2023
+,,,,2.67,10/08/2023
+,,,,3.16,10/08/2023
+,,,,2.66,10/08/2023
+,,,,8,10/08/2023
+,,,,5.97,10/08/2023
+,,,,6.78,10/08/2023
+,,,,3.81,10/08/2023
+,,,,3.77,10/08/2023
+,,,,3.89,10/08/2023
+,,,,0.85,10/08/2023
+,,,,3.38,10/08/2023
+,,,,27.35,10/08/2023
+,,,,0.85,10/08/2023
+,,,,7.83,10/08/2023
+,,,,2.74,10/08/2023
+,,,,2.5,10/08/2023
+,,,,18.9,10/08/2023
+,,,,1.71,10/08/2023
+,,,,5.26,10/08/2023
+,,,,2.87,10/08/2023
+,,,,1.45,10/08/2023
+,,,,18.19,10/08/2023
+,,,,4.64,10/08/2023
+,,,,8.99,10/08/2023
+,,,,28.05,10/08/2023
+,,,,12.38,10/08/2023
+,,,,3.39,10/08/2023
+,,,,2.94,10/08/2023
+,,,,7.01,10/08/2023
+,,,,1.79,10/08/2023
+,,,,5.97,10/08/2023
+,,,,3.38,10/08/2023
+,,,,8.99,10/08/2023
+,,,,1.44,10/08/2023
+,,,,1.79,10/08/2023
+,,,,9.24,10/08/2023
+,,,,5.51,10/08/2023
+,,,,2.85,10/08/2023
+,,,,1.79,10/08/2023
+,,,,6.49,10/08/2023
+,,,,5.42,10/08/2023
+,,,,11.55,10/08/2023
+,,,,3.56,10/08/2023
+,,,,1.64,10/08/2023
+,,,,3.81,10/08/2023
+,,,,14.36,10/08/2023
+,,,,19.17,10/08/2023
+,,,,5.09,13/10/2022
+,,,,7.38,13/10/2022
+,,,,2.1,13/10/2022
+,,,,3.8,13/10/2022
+,,,,4.42,13/10/2022
+,,,,21.15,13/10/2022
+,,,,5.58,13/10/2022
+,,,,4.87,13/10/2022
+,,,,2.73,13/10/2022
+,,,,2.76,13/10/2022
+,,,,3.07,13/10/2022
+,,,,5.46,13/10/2022
+,,,,0.88,13/10/2022
+,,,,1.89,13/10/2022
+,,,,6.79,13/10/2022
+,,,,13.22,13/10/2022
+,,,,18.85,13/10/2022
+,,,,6.29,13/10/2022
+,,,,4.6,13/10/2022
+,,,,6.07,13/10/2022
+,,,,6.15,13/10/2022
+,,,,5.75,13/10/2022
+,,,,4.55,13/10/2022
+,,,,3.78,13/10/2022
+,,,,2.6,13/10/2022
+,,,,6.23,13/10/2022
+,,,,1.79,13/10/2022
+,,,,3.33,13/10/2022
+,,,,1.16,13/10/2022
+,,,,4.8,13/10/2022
+,,,,4.01,13/10/2022
+,,,,6.99,13/10/2022
+,,,,1.91,13/10/2022
+,,,,3.67,13/10/2022
+,,,,2.98,13/10/2022
+,,,,3.65,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.12,13/10/2022
+,,,,3.46,13/10/2022
+,,,,8.5,13/10/2022
+,,,,8.75,13/10/2022
+,,,,7.15,13/10/2022
+,,,,3.32,13/10/2022
+,,,,29.34,13/10/2022
+,,,,8.38,13/10/2022
+,,,,5.25,13/10/2022
+,,,,0.85,13/10/2022
+,,,,5.51,13/10/2022
+,,,,2.85,13/10/2022
+,,,,5.98,13/10/2022
+,,,,2.76,13/10/2022
+,,,,6.01,13/10/2022
+,,,,13.75,13/10/2022
+,,,,5.01,13/10/2022
+,,,,13.05,13/10/2022
+,,,,6.83,13/10/2022
+,,,,5.51,13/10/2022
+,,,,2.76,13/10/2022
+,,,,3.33,13/10/2022
+,,,,4.12,13/10/2022
+,,,,1.61,13/10/2022
+,,,,9.04,13/10/2022
+,,,,4.41,13/10/2022
+,,,,5.94,13/10/2022
+,,,,15.63,13/10/2022
+,,,,5.3,13/10/2022
+,,,,5.27,13/10/2022
+,,,,2.66,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.87,13/10/2022
+,,,,5.26,13/10/2022
+,,,,3.5,13/10/2022
+,,,,4.62,13/10/2022
+,,,,4.82,13/10/2022
+,,,,3.11,13/10/2022
+,,,,13.56,13/10/2022
+,,,,9.36,13/10/2022
+,,,,7.59,13/10/2022
+,,,,3.36,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.13,13/10/2022
+,,,,1.91,13/10/2022
+,,,,2.94,13/10/2022
+,,,,2.42,13/10/2022
+,,,,3.27,13/10/2022
+,,,,11.62,13/10/2022
+,,,,4.07,13/10/2022
+,,,,5.4,13/10/2022
+,,,,4.17,13/10/2022
+,,,,1.91,13/10/2022
+,,,,6.58,13/10/2022
+,,,,10.16,13/10/2022
+,,,,3.57,13/10/2022
+,,,,2.55,13/10/2022
+,,,,0.85,13/10/2022
+,,,,6.13,13/10/2022
+,,,,4.55,13/10/2022
+,,,,2.6,13/10/2022
+,,,,3.1,13/10/2022
+,,,,4.85,13/10/2022
+,,,,5.71,13/10/2022
+,,,,7.44,22/01/2023
+,,,,13.66,22/01/2023
+,,,,5.26,22/01/2023
+,,,,2.32,22/01/2023
+,,,,4.68,22/01/2023
+,,,,3.17,22/01/2023
+,,,,3.36,22/01/2023
+,,,,2.76,22/01/2023
+,,,,2.76,22/01/2023
+,,,,2.86,22/01/2023
+,,,,5.26,22/01/2023
+,,,,5.56,22/01/2023
+,,,,14.2,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.69,22/01/2023
+,,,,41.26,22/01/2023
+,,,,3.73,22/01/2023
+,,,,5.27,22/01/2023
+,,,,7.19,22/01/2023
+,,,,3,22/01/2023
+,,,,4,22/01/2023
+,,,,5.8,22/01/2023
+,,,,3.43,22/01/2023
+,,,,1.91,22/01/2023
+,,,,4.74,22/01/2023
+,,,,5.26,22/01/2023
+,,,,5.38,22/01/2023
+,,,,4.55,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.79,22/01/2023
+,,,,4.09,22/01/2023
+,,,,5.01,22/01/2023
+,,,,3.25,22/01/2023
+,,,,3.17,22/01/2023
+,,,,7.54,22/01/2023
+,,,,5.6,22/01/2023
+,,,,3.57,22/01/2023
+,,,,3.9,22/01/2023
+,,,,0.91,22/01/2023
+,,,,3.86,22/01/2023
+,,,,2.76,22/01/2023
+,,,,7.04,22/01/2023
+,,,,2.41,22/01/2023
+,,,,2.56,22/01/2023
+,,,,3.57,22/01/2023
+,,,,2.87,22/01/2023
+,,,,0.85,22/01/2023
+,,,,3.8,22/01/2023
+,,,,7.02,22/01/2023
+,,,,4.64,22/01/2023
+,,,,17.07,22/01/2023
+,,,,5.6,22/01/2023
+,,,,3.8,22/01/2023
+,,,,5.91,22/01/2023
+,,,,5.01,22/01/2023
+,,,,5.9,22/01/2023
+,,,,3.66,22/01/2023
+,,,,10.25,22/01/2023
+,,,,4.59,22/01/2023
+,,,,5.69,22/01/2023
+,,,,6.15,22/01/2023
+,,,,3.98,22/01/2023
+,,,,5.69,22/01/2023
+,,,,3.17,22/01/2023
+,,,,4.18,22/01/2023
+,,,,2.86,22/01/2023
+,,,,4.17,22/01/2023
+,,,,12.08,22/01/2023
+,,,,3.11,22/01/2023
+,,,,7.05,22/01/2023
+,,,,3.58,22/01/2023
+,,,,4.75,22/01/2023
+,,,,7.37,22/01/2023
+,,,,1.91,22/01/2023
+,,,,2.86,22/01/2023
+,,,,5.29,22/01/2023
+,,,,1.91,22/01/2023
+,,,,22.25,22/01/2023
+,,,,17.56,22/01/2023
+,,,,1.91,22/01/2023
+,,,,1.79,22/01/2023
+,,,,3.65,22/01/2023
+,,,,5.69,22/01/2023
+,,,,3.32,22/01/2023
+,,,,110.67,22/01/2023
+,,,,3.1,22/01/2023
+,,,,1.12,22/01/2023
+,,,,5.95,22/01/2023
+,,,,6.4,22/01/2023
+,,,,1.64,22/01/2023
+,,,,9.11,22/01/2023
+,,,,4.89,22/01/2023
+,,,,2.86,22/01/2023
+,,,,6.76,22/01/2023
+,,,,8.08,22/01/2023
+,,,,1.61,22/01/2023
+,,,,5.68,22/01/2023
+,,,,5.07,22/01/2023
+,,,,5.46,22/01/2023
+,,,,3.78,22/01/2023
+,,,,2.66,22/01/2023
+,,,,2.94,22/01/2023
+,,,,4.66,22/01/2023
+,,,,3.75,22/01/2023
+,,,,3.52,22/01/2023
+,,,,3.56,22/01/2023
+,,,,11.24,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.4,22/01/2023
+,,,,2.76,22/01/2023
+,,,,1.91,22/01/2023
+,,,,2.63,22/01/2023
+,,,,4.44,22/01/2023
+,,,,1.76,22/01/2023
+,,,,15.29,22/01/2023
+,,,,13,22/01/2023
+,,,,3.32,22/01/2023
+,,,,5.14,22/01/2023
+,,,,3.11,22/01/2023
+,,,,8.22,22/01/2023
+,,,,2.49,22/01/2023
+,,,,11.9,22/01/2023
+,,,,5.26,22/01/2023
+,,,,3.43,22/01/2023
+,,,,16.37,22/01/2023
+,,,,10.36,22/01/2023
+,,,,4.08,22/01/2023
+,,,,7.15,22/01/2023
+,,,,6.46,22/01/2023
+,,,,6.42,22/01/2023
+,,,,3.16,22/01/2023
+,,,,16.54,22/01/2023
+,,,,6.33,22/01/2023
+,,,,16.53,22/01/2023
+,,,,5.49,22/01/2023
+,,,,5.46,22/01/2023
+,,,,4.48,22/01/2023
+,,,,1.33,22/01/2023
+,,,,3.43,22/01/2023
+,,,,4.19,22/01/2023
+,,,,4,22/01/2023
+,,,,2.86,22/01/2023
+,,,,6.7,22/01/2023
+,,,,8.29,22/01/2023
+,,,,2.76,22/01/2023
+,,,,1.06,22/01/2023
+,,,,2.17,22/01/2023
+,,,,3.14,22/01/2023
+,,,,5.11,22/01/2023
+,,,,5.27,22/01/2023
+,,,,22.74,22/01/2023
+,,,,3.82,22/01/2023
+,,,,3.16,22/01/2023
+,,,,5.87,22/01/2023
+,,,,3.27,22/01/2023
+,,,,2.86,22/01/2023
+,,,,3.34,22/01/2023
+,,,,14.65,22/01/2023
+,,,,3.46,22/01/2023
+,,,,3.84,22/01/2023
+,,,,3.87,22/01/2023
+,,,,2.76,22/01/2023
+,,,,4,22/01/2023
+,,,,4.21,22/01/2023
+,,,,3.16,22/01/2023
+,,,,4.55,22/01/2023
+,,,,3.1,22/01/2023
+,,,,20.93,22/01/2023
+,,,,6.29,22/01/2023
+,,,,2.71,22/01/2023
+,,,,3.11,22/01/2023
+,,,,3.89,22/01/2023
+,,,,2.98,22/01/2023
+,,,,5.13,22/01/2023
+,,,,5.58,22/01/2023
+,,,,3.81,22/01/2023
+,,,,2.82,22/01/2023
+,,,,13.84,22/01/2023
+,,,,3.11,22/01/2023
+,,,,3.76,22/01/2023
+,,,,3.92,22/01/2023
+,,,,2.93,22/01/2023
+,,,,2.25,22/01/2023
+,,,,8,22/01/2023
+,,,,1.64,22/01/2023
+,,,,0.85,22/01/2023
+,,,,1.12,22/01/2023
+,,,,3.63,22/01/2023
+,,,,5.8,22/01/2023
+,,,,16.05,22/01/2023
+,,,,5.26,22/01/2023
+,,,,1.15,22/01/2023
+,,,,4.41,22/01/2023
+,,,,2.63,22/01/2023
+,,,,3.09,22/01/2023
+,,,,3.28,22/01/2023
+,,,,2.86,22/01/2023
+,,,,4.81,22/01/2023
+,,,,1.64,22/01/2023
+,,,,6.56,22/01/2023
+,,,,3.32,10/08/2023
+,,,,5.34,10/08/2023
+,,,,2.6,10/08/2023
+,,,,4.8,10/08/2023
+,,,,2.82,10/08/2023
+,,,,2.75,10/08/2023
+,,,,5.78,10/08/2023
+,,,,77.25,10/08/2023
+,,,,5.58,10/08/2023
+,,,,7.31,10/08/2023
+,,,,4.99,10/08/2023
+,,,,3.35,10/08/2023
+,,,,8.37,10/08/2023
+,,,,1.45,10/08/2023
+,,,,3.92,10/08/2023
+,,,,6.21,10/08/2023
+,,,,4.43,10/08/2023
+,,,,5.26,10/08/2023
+,,,,10.18,10/08/2023
+,,,,5.68,10/08/2023
+,,,,2.2,10/08/2023
+,,,,6.32,10/08/2023
+,,,,3.11,10/08/2023
+,,,,5,10/08/2023
+,,,,3.43,10/08/2023
+,,,,1.64,10/08/2023
+,,,,8.77,10/08/2023
+,,,,1.29,10/08/2023
+,,,,1.15,10/08/2023
+,,,,2,10/08/2023
+,,,,2.58,10/08/2023
+,,,,4.45,10/08/2023
+,,,,4.58,10/08/2023
+,,,,4.97,10/08/2023
+,,,,6.7,10/08/2023
+,,,,1.79,10/08/2023
+,,,,2.67,10/08/2023
+,,,,3.16,10/08/2023
+,,,,2.66,10/08/2023
+,,,,8,10/08/2023
+,,,,5.97,10/08/2023
+,,,,6.78,10/08/2023
+,,,,3.81,10/08/2023
+,,,,3.77,10/08/2023
+,,,,3.89,10/08/2023
+,,,,0.85,10/08/2023
+,,,,3.38,10/08/2023
+,,,,27.35,10/08/2023
+,,,,0.85,10/08/2023
+,,,,7.83,10/08/2023
+,,,,2.74,10/08/2023
+,,,,2.5,10/08/2023
+,,,,18.9,10/08/2023
+,,,,1.71,10/08/2023
+,,,,5.26,10/08/2023
+,,,,2.87,10/08/2023
+,,,,1.45,10/08/2023
+,,,,18.19,10/08/2023
+,,,,4.64,10/08/2023
+,,,,8.99,10/08/2023
+,,,,28.05,10/08/2023
+,,,,12.38,10/08/2023
+,,,,3.39,10/08/2023
+,,,,2.94,10/08/2023
+,,,,7.01,10/08/2023
+,,,,1.79,10/08/2023
+,,,,5.97,10/08/2023
+,,,,3.38,10/08/2023
+,,,,8.99,10/08/2023
+,,,,1.44,10/08/2023
+,,,,1.79,10/08/2023
+,,,,9.24,10/08/2023
+,,,,5.51,10/08/2023
+,,,,2.85,10/08/2023
+,,,,1.79,10/08/2023
+,,,,6.49,10/08/2023
+,,,,5.42,10/08/2023
+,,,,11.55,10/08/2023
+,,,,3.56,10/08/2023
+,,,,1.64,10/08/2023
+,,,,3.81,10/08/2023
+,,,,14.36,10/08/2023
+,,,,19.17,10/08/2023
+,,,,5.09,13/10/2022
+,,,,7.38,13/10/2022
+,,,,2.1,13/10/2022
+,,,,3.8,13/10/2022
+,,,,4.42,13/10/2022
+,,,,21.15,13/10/2022
+,,,,5.58,13/10/2022
+,,,,4.87,13/10/2022
+,,,,2.73,13/10/2022
+,,,,2.76,13/10/2022
+,,,,3.07,13/10/2022
+,,,,5.46,13/10/2022
+,,,,0.88,13/10/2022
+,,,,1.89,13/10/2022
+,,,,6.79,13/10/2022
+,,,,13.22,13/10/2022
+,,,,18.85,13/10/2022
+,,,,6.29,13/10/2022
+,,,,4.6,13/10/2022
+,,,,6.07,13/10/2022
+,,,,6.15,13/10/2022
+,,,,5.75,13/10/2022
+,,,,4.55,13/10/2022
+,,,,3.78,13/10/2022
+,,,,2.6,13/10/2022
+,,,,6.23,13/10/2022
+,,,,1.79,13/10/2022
+,,,,3.33,13/10/2022
+,,,,1.16,13/10/2022
+,,,,4.8,13/10/2022
+,,,,4.01,13/10/2022
+,,,,6.99,13/10/2022
+,,,,1.91,13/10/2022
+,,,,3.67,13/10/2022
+,,,,2.98,13/10/2022
+,,,,3.65,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.12,13/10/2022
+,,,,3.46,13/10/2022
+,,,,8.5,13/10/2022
+,,,,8.75,13/10/2022
+,,,,7.15,13/10/2022
+,,,,3.32,13/10/2022
+,,,,29.34,13/10/2022
+,,,,8.38,13/10/2022
+,,,,5.25,13/10/2022
+,,,,0.85,13/10/2022
+,,,,5.51,13/10/2022
+,,,,2.85,13/10/2022
+,,,,5.98,13/10/2022
+,,,,2.76,13/10/2022
+,,,,6.01,13/10/2022
+,,,,13.75,13/10/2022
+,,,,5.01,13/10/2022
+,,,,13.05,13/10/2022
+,,,,6.83,13/10/2022
+,,,,5.51,13/10/2022
+,,,,2.76,13/10/2022
+,,,,3.33,13/10/2022
+,,,,4.12,13/10/2022
+,,,,1.61,13/10/2022
+,,,,9.04,13/10/2022
+,,,,4.41,13/10/2022
+,,,,5.94,13/10/2022
+,,,,15.63,13/10/2022
+,,,,5.3,13/10/2022
+,,,,5.27,13/10/2022
+,,,,2.66,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.87,13/10/2022
+,,,,5.26,13/10/2022
+,,,,3.5,13/10/2022
+,,,,4.62,13/10/2022
+,,,,4.82,13/10/2022
+,,,,3.11,13/10/2022
+,,,,13.56,13/10/2022
+,,,,9.36,13/10/2022
+,,,,7.59,13/10/2022
+,,,,3.36,13/10/2022
+,,,,2.86,13/10/2022
+,,,,1.13,13/10/2022
+,,,,1.91,13/10/2022
+,,,,2.94,13/10/2022
+,,,,2.42,13/10/2022
+,,,,3.27,13/10/2022
+,,,,11.62,13/10/2022
+,,,,4.07,13/10/2022
+,,,,5.4,13/10/2022
+,,,,4.17,13/10/2022
+,,,,1.91,13/10/2022
+,,,,6.58,13/10/2022
+,,,,10.16,13/10/2022
+,,,,3.57,13/10/2022
+,,,,2.55,13/10/2022
+,,,,0.85,13/10/2022
+,,,,6.13,13/10/2022
+,,,,4.55,13/10/2022
+,,,,2.6,13/10/2022
+,,,,3.1,13/10/2022
+,,,,4.85,13/10/2022
+,,,,5.71,13/10/2022
+,,,,7.44,22/01/2023
+,,,,13.66,22/01/2023
+,,,,5.26,22/01/2023
+,,,,2.32,22/01/2023
+,,,,4.68,22/01/2023
+,,,,3.17,22/01/2023
+,,,,3.36,22/01/2023
+,,,,2.76,22/01/2023
+,,,,2.76,22/01/2023
+,,,,2.86,22/01/2023
+,,,,5.26,22/01/2023
+,,,,5.56,22/01/2023
+,,,,14.2,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.69,22/01/2023
+,,,,41.26,22/01/2023
+,,,,3.73,22/01/2023
+,,,,5.27,22/01/2023
+,,,,7.19,22/01/2023
+,,,,3,22/01/2023
+,,,,4,22/01/2023
+,,,,5.8,22/01/2023
+,,,,3.43,22/01/2023
+,,,,1.91,22/01/2023
+,,,,4.74,22/01/2023
+,,,,5.26,22/01/2023
+,,,,5.38,22/01/2023
+,,,,4.55,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.79,22/01/2023
+,,,,4.09,22/01/2023
+,,,,5.01,22/01/2023
+,,,,3.25,22/01/2023
+,,,,3.17,22/01/2023
+,,,,7.54,22/01/2023
+,,,,5.6,22/01/2023
+,,,,3.57,22/01/2023
+,,,,3.9,22/01/2023
+,,,,0.91,22/01/2023
+,,,,3.86,22/01/2023
+,,,,2.76,22/01/2023
+,,,,7.04,22/01/2023
+,,,,2.41,22/01/2023
+,,,,2.56,22/01/2023
+,,,,3.57,22/01/2023
+,,,,2.87,22/01/2023
+,,,,0.85,22/01/2023
+,,,,3.8,22/01/2023
+,,,,7.02,22/01/2023
+,,,,4.64,22/01/2023
+,,,,17.07,22/01/2023
+,,,,5.6,22/01/2023
+,,,,3.8,22/01/2023
+,,,,5.91,22/01/2023
+,,,,5.01,22/01/2023
+,,,,5.9,22/01/2023
+,,,,3.66,22/01/2023
+,,,,10.25,22/01/2023
+,,,,4.59,22/01/2023
+,,,,5.69,22/01/2023
+,,,,6.15,22/01/2023
+,,,,3.98,22/01/2023
+,,,,5.69,22/01/2023
+,,,,3.17,22/01/2023
+,,,,4.18,22/01/2023
+,,,,2.86,22/01/2023
+,,,,4.17,22/01/2023
+,,,,12.08,22/01/2023
+,,,,3.11,22/01/2023
+,,,,7.05,22/01/2023
+,,,,3.58,22/01/2023
+,,,,4.75,22/01/2023
+,,,,7.37,22/01/2023
+,,,,1.91,22/01/2023
+,,,,2.86,22/01/2023
+,,,,5.29,22/01/2023
+,,,,1.91,22/01/2023
+,,,,22.25,22/01/2023
+,,,,17.56,22/01/2023
+,,,,1.91,22/01/2023
+,,,,1.79,22/01/2023
+,,,,3.65,22/01/2023
+,,,,5.69,22/01/2023
+,,,,3.32,22/01/2023
+,,,,110.67,22/01/2023
+,,,,3.1,22/01/2023
+,,,,1.12,22/01/2023
+,,,,5.95,22/01/2023
+,,,,6.4,22/01/2023
+,,,,1.64,22/01/2023
+,,,,9.11,22/01/2023
+,,,,4.89,22/01/2023
+,,,,2.86,22/01/2023
+,,,,6.76,22/01/2023
+,,,,8.08,22/01/2023
+,,,,1.61,22/01/2023
+,,,,5.68,22/01/2023
+,,,,5.07,22/01/2023
+,,,,5.46,22/01/2023
+,,,,3.78,22/01/2023
+,,,,2.66,22/01/2023
+,,,,2.94,22/01/2023
+,,,,4.66,22/01/2023
+,,,,3.75,22/01/2023
+,,,,3.52,22/01/2023
+,,,,3.56,22/01/2023
+,,,,11.24,22/01/2023
+,,,,1.45,22/01/2023
+,,,,5.4,22/01/2023
+,,,,2.76,22/01/2023
+,,,,1.91,22/01/2023
+,,,,2.63,22/01/2023
+,,,,4.44,22/01/2023
+,,,,1.76,22/01/2023
+,,,,15.29,22/01/2023
+,,,,13,22/01/2023
+,,,,3.32,22/01/2023
+,,,,5.14,22/01/2023
+,,,,3.11,22/01/2023
+,,,,8.22,22/01/2023
+,,,,2.49,22/01/2023
+,,,,11.9,22/01/2023
+,,,,5.26,22/01/2023
+,,,,3.43,22/01/2023
+,,,,16.37,22/01/2023
+,,,,10.36,22/01/2023
+,,,,4.08,22/01/2023
+,,,,7.15,22/01/2023
+,,,,6.46,22/01/2023
+,,,,6.42,22/01/2023
+,,,,3.16,22/01/2023
+,,,,16.54,22/01/2023
+,,,,6.33,22/01/2023
+,,,,16.53,22/01/2023
+,,,,5.49,22/01/2023
+,,,,5.46,22/01/2023
+,,,,4.48,22/01/2023
+,,,,1.33,22/01/2023
+,,,,3.43,22/01/2023
+,,,,4.19,22/01/2023
+,,,,4,22/01/2023
+,,,,2.86,22/01/2023
+,,,,6.7,22/01/2023
+,,,,8.29,22/01/2023
+,,,,2.76,22/01/2023
+,,,,1.06,22/01/2023
+,,,,2.17,22/01/2023
+,,,,3.14,22/01/2023
+,,,,5.11,22/01/2023
+,,,,5.27,22/01/2023
+,,,,22.74,22/01/2023
+,,,,3.82,22/01/2023
+,,,,3.16,22/01/2023
+,,,,5.87,22/01/2023
+,,,,3.27,22/01/2023
+,,,,2.86,22/01/2023
+,,,,3.34,22/01/2023
+,,,,14.65,22/01/2023
+,,,,3.46,22/01/2023
+,,,,3.84,22/01/2023
+,,,,3.87,22/01/2023
+,,,,2.76,22/01/2023
+,,,,4,22/01/2023
+,,,,4.21,22/01/2023
+,,,,3.16,22/01/2023
+,,,,4.55,22/01/2023
+,,,,3.1,22/01/2023
+,,,,20.93,22/01/2023
+,,,,6.29,22/01/2023
+,,,,2.71,22/01/2023
+,,,,3.11,22/01/2023
+,,,,3.89,22/01/2023
+,,,,2.98,22/01/2023
+,,,,5.13,22/01/2023
+,,,,5.58,22/01/2023
+,,,,3.81,22/01/2023
+,,,,2.82,22/01/2023
+,,,,13.84,22/01/2023
+,,,,3.11,22/01/2023
+,,,,3.76,22/01/2023
+,,,,3.92,22/01/2023
+,,,,2.93,22/01/2023
+,,,,2.25,22/01/2023
+,,,,8,22/01/2023
+,,,,1.64,22/01/2023
+,,,,0.85,22/01/2023
+,,,,1.12,22/01/2023
+,,,,3.63,22/01/2023
+,,,,5.8,22/01/2023
+,,,,16.05,22/01/2023
+,,,,5.26,22/01/2023
+,,,,1.15,22/01/2023
+,,,,4.41,22/01/2023
+,,,,2.63,22/01/2023
+,,,,3.09,22/01/2023
+,,,,3.28,22/01/2023
+,,,,2.86,22/01/2023
+,,,,4.81,22/01/2023
+,,,,1.64,22/01/2023
+,,,,6.56,22/01/2023
+,,,,3.32,10/08/2023
+,,,,5.34,10/08/2023
+,,,,2.6,10/08/2023
+,,,,4.8,10/08/2023
+,,,,2.82,10/08/2023
+,,,,2.75,10/08/2023
+,,,,5.78,10/08/2023
+,,,,77.25,10/08/2023
+,,,,5.58,10/08/2023
+,,,,7.31,10/08/2023
+,,,,4.99,10/08/2023
+,,,,3.35,10/08/2023
+,,,,8.37,10/08/2023
+,,,,1.45,10/08/2023
+,,,,3.92,10/08/2023
+,,,,6.21,10/08/2023
+,,,,4.43,10/08/2023
+,,,,5.26,10/08/2023
+,,,,10.18,10/08/2023
+,,,,5.68,10/08/2023
+,,,,2.2,10/08/2023
+,,,,6.32,10/08/2023
+,,,,3.11,10/08/2023
+,,,,5,10/08/2023
+,,,,3.43,10/08/2023
+,,,,1.64,10/08/2023
+,,,,8.77,10/08/2023
+,,,,1.29,10/08/2023
+,,,,1.15,10/08/2023
+,,,,2,10/08/2023
+,,,,2.58,10/08/2023
+,,,,4.45,10/08/2023
+,,,,4.58,10/08/2023
+,,,,4.97,10/08/2023
+,,,,6.7,10/08/2023
+,,,,1.79,10/08/2023
+,,,,2.67,10/08/2023
+,,,,3.16,10/08/2023
+,,,,2.66,10/08/2023
+,,,,8,10/08/2023
+,,,,5.97,10/08/2023
+,,,,6.78,10/08/2023
+,,,,3.81,10/08/2023
+,,,,3.77,10/08/2023
+,,,,3.89,10/08/2023
+,,,,0.85,10/08/2023
+,,,,3.38,10/08/2023
+,,,,27.35,10/08/2023
+,,,,0.85,10/08/2023
+,,,,7.83,10/08/2023
+,,,,2.74,10/08/2023
+,,,,2.5,10/08/2023
+,,,,18.9,10/08/2023
+,,,,1.71,10/08/2023
+,,,,5.26,10/08/2023
+,,,,2.87,10/08/2023
+,,,,1.45,10/08/2023
+,,,,18.19,10/08/2023
+,,,,4.64,10/08/2023
+,,,,8.99,10/08/2023
+,,,,28.05,10/08/2023
+,,,,12.38,10/08/2023
+,,,,3.39,10/08/2023
+,,,,2.94,10/08/2023
+,,,,7.01,10/08/2023
+,,,,1.79,10/08/2023
+,,,,5.97,10/08/2023
+,,,,3.38,10/08/2023
+,,,,8.99,10/08/2023
+,,,,1.44,10/08/2023
+,,,,1.79,10/08/2023
+,,,,9.24,10/08/2023
+,,,,5.51,10/08/2023
+,,,,2.85,10/08/2023
+,,,,1.79,10/08/2023
+,,,,6.49,10/08/2023
+,,,,5.42,10/08/2023
+,,,,11.55,10/08/2023
+,,,,3.56,10/08/2023
+,,,,1.64,10/08/2023
+,,,,3.81,10/08/2023
+,,,,14.36,10/08/2023
+,,,,19.17,10/08/2023
